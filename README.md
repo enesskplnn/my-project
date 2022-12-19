@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 # Deneme
+
 
 ## Alt bilgi
 yeni dosyalar alınıyor
